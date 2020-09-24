@@ -7,6 +7,7 @@ App based on react native for for rental all you want
 Clone this repo for start working
 
 ```bash
+npm install -g expo-cli
 npm install
 ```
 
